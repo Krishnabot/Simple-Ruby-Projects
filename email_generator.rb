@@ -13,4 +13,4 @@ email<<"@"
 email<<company.downcase.split.join
 email<<".com"
 
-puts email
+puts ("Your New Email : #{email}")
